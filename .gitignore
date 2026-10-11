@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific state and build products
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+
+# Swift Package Manager build products
+.build/
+Packages/
